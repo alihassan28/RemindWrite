@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/alihassan28/RemindWrite/static/js/main.68ba370c.chunk.js",
+    "main.js.map": "/alihassan28/RemindWrite/static/js/main.68ba370c.chunk.js.map",
+    "runtime-main.js": "/alihassan28/RemindWrite/static/js/runtime-main.6ad0b3f7.js",
+    "runtime-main.js.map": "/alihassan28/RemindWrite/static/js/runtime-main.6ad0b3f7.js.map",
+    "static/js/2.d306e2ae.chunk.js": "/alihassan28/RemindWrite/static/js/2.d306e2ae.chunk.js",
+    "static/js/2.d306e2ae.chunk.js.map": "/alihassan28/RemindWrite/static/js/2.d306e2ae.chunk.js.map",
+    "index.html": "/alihassan28/RemindWrite/index.html",
+    "precache-manifest.ef0316cd6ae617c16a9de06769085cc4.js": "/alihassan28/RemindWrite/precache-manifest.ef0316cd6ae617c16a9de06769085cc4.js",
+    "service-worker.js": "/alihassan28/RemindWrite/service-worker.js",
+    "static/js/2.d306e2ae.chunk.js.LICENSE.txt": "/alihassan28/RemindWrite/static/js/2.d306e2ae.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ad0b3f7.js",
+    "static/js/2.d306e2ae.chunk.js",
+    "static/js/main.68ba370c.chunk.js"
+  ]
+}
